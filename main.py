@@ -3,7 +3,7 @@ import random
 import time 
 import os
 
-CHANCE = 1 #chance por segundo (1 em X)
+CHANCE = 15000 #chance por segundo (1 em X)
 FRAME_RATE = 30 #framerate do jumpscare
 
 def load_frames(folder):
